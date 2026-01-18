@@ -307,4 +307,3 @@ GET /api/tasks/stats/summary
 - Проверка типов данных
 - Обработка исключений
 - Логирование операций
-![alt text](image.png)
